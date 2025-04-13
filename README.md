@@ -1,6 +1,14 @@
 # 🤖 Contador de Flexões com Visão Computacional
 
-Projeto desenvolvido para a disciplina de [Nome da Disciplina ou Faculdade], com o objetivo de aplicar técnicas de **visão computacional** para detectar e contar flexões automaticamente usando vídeo e inteligência artificial.
+Projeto desenvolvido para a disciplina de AI ENGENEERING, COGNITIVE AND SEMANTIC COMPUTATION & IOT, com o objetivo de aplicar técnicas de **visão computacional** para detectar e contar flexões automaticamente usando vídeo e inteligência artificial.
+
+Equipe: 
+Anna Cristina Doná Araujo (RM: 94795)
+Arthur de Mesquita Cardoso (RM: 93186)
+Felipe Palmeira Feitosa (RM: 92835)
+Roberta Roman Ferreira da Costa (RM: 93803)
+Felipe Coelho Tiepo (RM:95026)
+
 
 ## 📹 Demonstração
 
